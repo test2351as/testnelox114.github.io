@@ -3,12 +3,12 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "06.07.2006"; // Дата рождения
-var fullname = "Сачук Олександр Андрійович " // ФИО
-var name = "Олександр" // Имя
+var birthdate = "02.03.2006"; // Дата рождения
+var fullname = "Трофименко Кирило Євгенович" // ФИО
+var name = "Кирило" // Имя
 
 // Паспорт
-var passport_id = "397080898" // Номер паспорта
+var passport_id = "397587838" // Номер паспорта
 
 // КПП
 var kpp_id = "0123456789" // ИНН
