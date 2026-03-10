@@ -1,0 +1,228 @@
+Uri: https://hellominecraft.vercel.app/
+File Name: E:\Project_Test\hellominecraft.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://hellominecraft.vercel.app/access/anime.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\anime.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/diya.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\diya.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/e-Ukraine-Regular.woff
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\e-Ukraine-Regular.woff
+Content Type: font/woff
+
+Uri: https://hellominecraft.vercel.app/access/e-UkraineHead-Medium.woff
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\e-UkraineHead-Medium.woff
+Content Type: font/woff
+
+Uri: https://hellominecraft.vercel.app/access/eblo.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\eblo.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/favicon.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\favicon.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/fill.js
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\fill.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/icons/1.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\1.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/10.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\10.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/11.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\11.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/2.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\2.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/3.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\3.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/3kita.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\3kita.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/4.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\4.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/5.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\5.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/6.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\6.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/7.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\7.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/8.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\8.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/9.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\9.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/arrow.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/copy.svg?12
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/docac.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\docac.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/docin.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\docin.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/gerb.png?1
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\gerb.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/icons/menuac.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\menuac.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/menuin.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\menuin.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/notac.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\notac.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/notin.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\notin.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/ok.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\ok.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/icons/posac.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\posac.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/posin.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\posin.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/icons/qrcodeact.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\qrcodeact.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/icons/qrcodeinc.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\qrcodeinc.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/icons/shtrihact.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\shtrihact.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/icons/shtrihinc.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\icons\shtrihinc.png
+Content Type: image/png
+
+Uri: https://hellominecraft.vercel.app/access/jquery.marquee.min.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\jquery.marquee.min.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/jquery.min.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/krest.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\krest.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/main.css?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\main.css
+Content Type: text/css
+
+Uri: https://hellominecraft.vercel.app/access/main.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\main.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/pro.min.css?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\pro.min.css
+Content Type: text/css
+
+Uri: https://hellominecraft.vercel.app/access/qr.svg?1
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\qr.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/scroll-lock.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\scroll-lock.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/swiper-bundle.css?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://hellominecraft.vercel.app/access/swiper-bundle.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\swiper-bundle.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/swiper-bundle.min.css?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://hellominecraft.vercel.app/access/swiper-bundle.min.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/access/uasign.svg
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\uasign.svg
+Content Type: image/svg+xml
+
+Uri: https://hellominecraft.vercel.app/access/values.js?662250
+File Name: E:\Project_Test\hellominecraft.vercel.app\access\values.js
+Content Type: application/javascript
+
+Uri: https://hellominecraft.vercel.app/manifest.json
+File Name: E:\Project_Test\hellominecraft.vercel.app\manifest.json
+Content Type: application/json
+
+Uri: https://hellominecraft.vercel.app/photo.jpg
+File Name: E:\Project_Test\hellominecraft.vercel.app\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://hellominecraft.vercel.app/photo_rights.jpg
+File Name: E:\Project_Test\hellominecraft.vercel.app\photo_rights.jpg
+Content Type: image/jpeg
+
+Uri: https://hellominecraft.vercel.app/sign.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\sign.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/9aRH1Vs.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\9aRH1Vs.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gFVTe9t.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\gFVTe9t.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/nu1q5DK.png
+File Name: E:\Project_Test\hellominecraft.vercel.app\nu1q5DK.png
+Content Type: image/png
+
