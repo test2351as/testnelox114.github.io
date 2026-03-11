@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "02.03.2006"; // Дата рождения
+var birthdate = "17.02.2008"; // Дата рождения
 var fullname = "Трофименко Кирило Євгенович" // ФИО
 var name = "Кирило" // Имя
 
